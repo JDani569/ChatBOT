@@ -22,4 +22,7 @@ Include a screenshot or GIF of your chatbot in action (optional).
 - Type a message/question in the chat input field.
 - Press Enter or click the Send button to send the message.
 - The chatbot will respond with a predefined message or attempt to understand and respond to the query.
- 
+## Screenshot
+![Screenshot (2079)](https://github.com/JDani569/ChatBOT/assets/156790186/a3302d21-1700-4400-a72e-2f83bdfa54fe)
+
+
